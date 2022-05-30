@@ -3,3 +3,5 @@
 Tutorial de Uso das ferramentas git e github
 ## Autor 
 Gustavo Cavalcante Moreira
+## Playlist
+[Iniciar tutorial](https://joseassis.com.br/cursos/gitegithub.html)
